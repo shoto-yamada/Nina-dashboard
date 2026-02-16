@@ -1,0 +1,14 @@
+{
+  "name": "nina-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard da Nina Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Você",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
